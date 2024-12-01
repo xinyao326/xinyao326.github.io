@@ -3,7 +3,7 @@ title: "Split to merge: Unifying separated modalities for unsupervised domain ad
 collection: publications
 category: conferences
 permalink: /publication/CVPR1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Unsupervised domain adaptation (UDA) of vision-language models (e.g., CLIP).'
 date: 2024-02-28
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 slidesurl: 'http://xinyao326.github.io/files/cvpr1_paper.pdf'
