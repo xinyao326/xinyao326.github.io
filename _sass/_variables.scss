@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+$doc-font-size              : 15;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -118,8 +118,8 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 $small                      : 400px;
 $medium                     : 500px;
 $medium-wide                : 550px;
-$large                      : 1200px;
-$x-large                    : 1800px;
+$large                      : 2200px;
+$x-large                    : 2800px;
 
 /*
 $small                      : 1px !default;
@@ -138,7 +138,7 @@ $right-sidebar-width-wide   : 10px !default;
 
 $susy: (
   columns: 12,
-  column-width: 120px,
+  column-width: 220px,
   gutters: 1/4,
   math: fluid,
   output: float,
