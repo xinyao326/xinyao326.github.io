@@ -46,7 +46,7 @@ $type-size-8                : 0.625em;  // ~10px
 $masthead-height            : 70px;
 
 /* Sidebar properties */
-$sidebar-screen-min-width   : 1024px;
+$sidebar-screen-min-width   : 1224px;
 $sidebar-link-max-width     : 250px;
 
 
@@ -132,9 +132,9 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 0px !default;
-$right-sidebar-width        : 0px !default;
-$right-sidebar-width-wide   : 0px !default;
+$right-sidebar-width-narrow : 10px !default;
+$right-sidebar-width        : 10px !default;
+$right-sidebar-width-wide   : 10px !default;
 
 $susy: (
   columns: 12,
