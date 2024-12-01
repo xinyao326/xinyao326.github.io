@@ -46,7 +46,7 @@ $type-size-8                : 0.625em;  // ~10px
 $masthead-height            : 70px;
 
 /* Sidebar properties */
-$sidebar-screen-min-width   : 1224px;
+$sidebar-screen-min-width   : 1024px;
 $sidebar-link-max-width     : 250px;
 
 
@@ -138,7 +138,7 @@ $right-sidebar-width-wide   : 100px !default;
 
 $susy: (
   columns: 12,
-  column-width: 220px,
+  column-width: 150px,
   gutters: 1/4,
   math: fluid,
   output: float,
