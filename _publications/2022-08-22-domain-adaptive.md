@@ -2,7 +2,7 @@
 title: "Domain adaptive remaining useful life prediction with transformer"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-08-22-domain-adaptive.md
+permalink: /publication/2022-08-22-domain-adaptive
 excerpt: 'Domain adaptative remaining useful life (RUL) prediction for machines.'
 date: 2022-08-22
 venue: 'IEEE Transactions on Instrumentation and Measurement'
