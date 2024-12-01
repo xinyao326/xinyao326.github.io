@@ -23,11 +23,11 @@ in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29272/30401)] [[Code](https://github.com/TL-UESTC/Bi-ATEN)] <br>
 **Xinyao Li**, Jingjing Li, Fengling Li, Lei Zhu, Ke Lu. <br>
 in *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)*, 2024. 
-- **Efficient transfer learning of large models with limited resources: A survey** [[Paper](http://cjc.ict.ac.cn/online/onlinepaper/lxy-20241030165704.pdf)] <br>
+- **Efficient transfer learning of large models with limited resources: A survey** [[Paper](/files/24_计算机学报.pdf)] <br>
 **Xinyao Li**, Jingjing Li, Lei Zhu, Heng Tao Shen. <br>
 *Chinese Journal of Computers*，2024. <br>
 （**李鑫尧**, 李晶晶, 朱磊, 申恒涛, "**资源受限的大模型高效迁移学习算法研究综述,**" *计算机学报*, 2024.）
-- **Cross-domain state estimation of lithium-ion batteries: A review** [[Paper](https://dx.doi.org/10.12178/1001-0548.2024171)] <br>
+- **Cross-domain state estimation of lithium-ion batteries: A review** [[Paper](/files/24_电子科大学报_锂电池状态跨域估计算法综述.pdf)] <br>
 **Xinyao Li**, Hongbo Chen, Liyuan Shen, Xuesong Feng, Jingjing Li. <br>
 *Journal of University of Electronic Science and Technology of China*, 2024. <br>
 （**李鑫尧**, 陈洪波, 沈力源, 冯雪松, 李晶晶, "**锂电池状态跨域估计算法综述,**" *电子科技大学学报*, 2024.）
