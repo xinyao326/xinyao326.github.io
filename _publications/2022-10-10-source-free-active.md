@@ -6,7 +6,7 @@ permalink: /publication/2022-10-10-source-free-active
 excerpt: 'Proposes and tackle a new transfer setting Source-Free-Active Domain Adaptation (SFADA).'
 date: 2022-10-10
 venue: 'Proceedings of the 30th ACM international conference on multimedia'
-paperurl: 'http://xinyao326.github.io/files/22_MM_Source-Free Active Domain Adaptation via Energy-Based.pdf'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3503161.3548152'
 citation: 'X. Li, Z. Du, J. Li, L. Zhu, and K. Lu. (2022). &quot;Source‑free active domain adaptation via energy‑based locality preserving transfer.&quot; <i>Proceedings of the 30th ACM international conference on multimedia</i>.'
 ---
 
