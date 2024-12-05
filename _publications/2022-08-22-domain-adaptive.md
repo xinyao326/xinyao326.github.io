@@ -6,7 +6,7 @@ permalink: /publication/2022-08-22-domain-adaptive
 excerpt: 'Domain adaptative remaining useful life (RUL) prediction for machines.'
 date: 2022-08-22
 venue: 'IEEE Transactions on Instrumentation and Measurement'
-paperurl: 'http://xinyao326.github.io/files/22_TIM_Domain_Adaptive_Remaining_Useful_Life_Prediction_With_Transformer.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9864208'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'X. Li, J. Li, L. Zuo, L. Zhu, and H. T. Shen. (2022). &quot;Domain adaptive remaining useful life prediction with transformer.&quot; <i>IEEE Transactions on Instrumentation and Measurement</i>.'
 ---
