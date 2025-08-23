@@ -10,7 +10,7 @@ $doc-font-size              : 9;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
-$indent-var                 : 1.3em;
+$indent-var                 : 1.2em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
@@ -118,8 +118,8 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 $small                      : 300px;
 $medium                     : 400px;
 $medium-wide                : 450px;
-$large                      : 1200px;
-$x-large                    : 1500px;
+$large                      : 1900px;
+$x-large                    : 2000px;
 
 /*
 $small                      : 1px !default;
@@ -137,8 +137,8 @@ $right-sidebar-width        : 10px !default;
 $right-sidebar-width-wide   : 10px !default;
 
 $susy: (
-  columns: 40,
-  column-width: 300px,
+  columns: 20,
+  column-width: 200px,
   gutters: 1/4,
   math: fluid,
   output: float,
