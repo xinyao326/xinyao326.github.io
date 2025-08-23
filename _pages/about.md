@@ -18,7 +18,7 @@ I am currently focusing on Transfer Learning, especially Unsupervised Domain Ada
 ## Publications
 ### 2025
 - **Unified Modality Separation: A Vision‑Language Framework for Unsupervised Domain Adaptation**
-[[Paper](https://arxiv.org/abs/2508.04987)] <br>
+[[Paper](https://ieeexplore.ieee.org/document/11134143)] <br>
 **Xinyao Li**, Jingjing Li, Zhekai Du, Kei Zhu, Heng Tao Shen. <br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*, 2025.
 - **PatAug: Augmentation of Augmentation for Test‑Time Adaptation** [available soon] <br>
