@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 12;
+$doc-font-size              : 11;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -138,7 +138,7 @@ $right-sidebar-width-wide   : 10px !default;
 
 $susy: (
   columns: 12,
-  column-width: 155px,
+  column-width: 160px,
   gutters: 1/4,
   math: fluid,
   output: float,
