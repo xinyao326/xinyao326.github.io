@@ -12,7 +12,7 @@ I am a second-year Ph.D student in Successive Postgraduate and Doctoral Program 
 
 I am currently focusing on Transfer Learning, especially Unsupervised Domain Adaptation (**UDA**), Domain Generalization (**DG**) and relevant transfer settings, as well as their applications in computer vision, vision-language models (e.g., **CLIP**), etc. I am also interested in applied machine learning in fields including Remaining Useful Life (**RUL**) prediction, State of Charge (**SOC**) prediction of batteries, etc. 
 
-- I will be a visiting PhD student at [CFAR, A*STAR](https://www.a-star.edu.sg/cfar) starting from September 1, 2025, supervised by [Prof. Ivor Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang).
+- I will be a visiting PhD student at [CFAR, A*STAR](https://www.a-star.edu.sg/cfar) starting from September 1, 2025, supervised by [Prof. Ivor Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang) and [Hangwei Qian](https://hangwei12358.github.io/).
 
 
 ## Publications
