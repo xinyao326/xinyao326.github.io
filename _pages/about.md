@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-### [ContactMe](mailto:xinyao326@outlook.com) | [CV](/assets/en_cv.pdf) | [Google Scholar](https://scholar.google.com/citations?user=lO0a_BUAAAAJ)
-I am a second-year Ph.D student in Successive Postgraduate and Doctoral Program at School of Computer Science and Engineering, University of Electronic and Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)), supervised by [Prof. Jingjing Li](https://lijin118.github.io). Before that, I earned my bachelor's degree in Computer Science from UESTC in 2022.
+### [Email](mailto:xinyao326@outlook.com) | [CV](/assets/en_cv.pdf) | [Google Scholar](https://scholar.google.com/citations?user=lO0a_BUAAAAJ)
+I am a third-year Ph.D student in Successive Postgraduate and Doctoral Program at School of Computer Science and Engineering, University of Electronic and Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)), supervised by [Prof. Jingjing Li](https://lijin118.github.io). Before that, I earned my bachelor's degree in Computer Science from UESTC in 2022.
 
 I am currently focusing on Transfer Learning, especially Unsupervised Domain Adaptation (**UDA**), Domain Generalization (**DG**) and relevant transfer settings, as well as their applications in computer vision, vision-language models (e.g., **CLIP**), etc. I am also interested in applied machine learning in fields including Remaining Useful Life (**RUL**) prediction, State of Charge (**SOC**) prediction of batteries, etc. 
 
