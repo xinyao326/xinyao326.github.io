@@ -62,6 +62,7 @@ in *Proceedings of the 30th ACM international conference on multimedia (**ACM MM
 ### 2025
 - Doctoral National Scholarship
 - UESTC Academic Scholarship, First Prize
+  
 ### 2024
 - Doctoral National Scholarship
 - UESTC Academic Scholarship, First Prize
