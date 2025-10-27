@@ -21,9 +21,9 @@ I am currently focusing on Transfer Learning, especially Unsupervised Domain Ada
 [[Paper](https://ieeexplore.ieee.org/document/11134143)] [[Code](https://github.com/TL-UESTC/unimos_plus)] <br>
 **Xinyao Li**, Jingjing Li, Zhekai Du, Kei Zhu, Heng Tao Shen. <br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*, 2025.
-- **PatAug: Augmentation of Augmentation for Test‑Time Adaptation** [available soon] <br>
+- **PatAug: Augmentation of Augmentation for Test‑Time Adaptation** [[Paper](https://dl.acm.org/doi/10.1145/3746027.3755740)] [[Code](https://github.com/TL-UESTC/PatAug)] <br>
 **Xinyao Li**, Dan Zhang, Zhekai Du, Lei Zhu, Zhi Chen, Jingjing Li. <br>
-in *Proceedings of the 33rd ACM international conference on multimedia (**ACM MM**)*, 2025.
+in *Proceedings of the 33rd ACM International Conference on Multimedia (**ACM MM**)*, 2025.
 - **Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey** [[Paper](https://arxiv.org/abs/2506.18504)] <br>
 **Xinyao Li**, Jingjing Li, Fengling Li, Lei Zhu, Yang Yang, Heng Tao Shen. <br>
 *Preprint*, 2025.
@@ -52,7 +52,7 @@ in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 ### 2022
 - **Source-Free Active Domain Adaptation via Energy-Based Locality Preserving Transfer** [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548152)] [[Code](https://github.com/TL-UESTC/ELPT)] <br>
 **Xinyao Li**, Zhekei Du, Jingjing Li, Lei Zhu, Ke Lu. <br>
-in *Proceedings of the 30th ACM international conference on multimedia (**ACM MM**)*, 2022. 
+in *Proceedings of the 30th ACM International Conference on Multimedia (**ACM MM**)*, 2022. 
 - **Domain Adaptive Remaining Useful Life Prediction with Transformer** [[Paper](https://ieeexplore.ieee.org/abstract/document/9864208/)] [[Code](https://github.com/TL-UESTC/Domain-Adaptive-Remaining-Useful-Life-Prediction-with-Transformer)] <br>
 **Xinyao Li**, Jingjing Li, Lin Zuo, Lei Zhu, Heng Tao Shen. <br>
 *IEEE Transactions on Instrumentation and Measurement*, 2022.
