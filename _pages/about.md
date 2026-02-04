@@ -16,6 +16,16 @@ I am currently focusing on Transfer Learning, especially Unsupervised Domain Ada
 
 
 ## Publications
+### 2026
+- **Learning ORDER-Aware Multimodal Representations for Composite Materials Design**
+[[Paper](https://arxiv.org/abs/2602.02513)] <br>
+***Xinyao Li***, Hangwei Qian, Jingjing Li, Ivor Tsang. <br>
+*Preprint*, 2026.
+- **Generalizing Vision-Language Models with Dedicated Prompt Guidance**
+[[Paper](https://arxiv.org/abs/2512.02421)] [[Code](https://github.com/TL-UESTC/GuiDG)] <br>
+***Xinyao Li***, Yinjie Min, Hongbo Chen, Zhekai Du, Fengling Li, Jingjing Li. <br>
+in *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)*, 2026. 
+
 ### 2025
 - **Unified Modality Separation: A Vision‑Language Framework for Unsupervised Domain Adaptation**
 [[Paper](https://ieeexplore.ieee.org/document/11134143)] [[Code](https://github.com/TL-UESTC/unimos_plus)] <br>
