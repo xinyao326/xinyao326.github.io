@@ -17,14 +17,14 @@ I am currently focusing on Transfer Learning, especially Unsupervised Domain Ada
 
 ## Publications
 ### 2026
-- **Learning ORDER-Aware Multimodal Representations for Composite Materials Design**
-[[Paper](https://arxiv.org/abs/2602.02513)] <br>
-***Xinyao Li***, Hangwei Qian, Jingjing Li, Ivor Tsang. <br>
-*Preprint*, 2026.
 - **Generalizing Vision-Language Models with Dedicated Prompt Guidance**
 [[Paper](https://arxiv.org/abs/2512.02421)] [[Code](https://github.com/TL-UESTC/GuiDG)] <br>
 ***Xinyao Li***, Yinjie Min, Hongbo Chen, Zhekai Du, Fengling Li, Jingjing Li. <br>
 in *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)*, 2026. 
+- **Learning ORDER-Aware Multimodal Representations for Composite Materials Design**
+[[Paper](https://arxiv.org/abs/2602.02513)] [[Code](https://github.com/TL-UESTC/ORDER)] <br>
+***Xinyao Li***, Hangwei Qian, Jingjing Li, Ivor Tsang. <br>
+*Preprint*, 2026.
 
 ### 2025
 - **Unified Modality Separation: A Vision‑Language Framework for Unsupervised Domain Adaptation**
@@ -65,7 +65,7 @@ in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 in *Proceedings of the 30th ACM International Conference on Multimedia (**ACM MM**)*, 2022. 
 - **Domain Adaptive Remaining Useful Life Prediction with Transformer** [[Paper](https://ieeexplore.ieee.org/abstract/document/9864208/)] [[Code](https://github.com/TL-UESTC/Domain-Adaptive-Remaining-Useful-Life-Prediction-with-Transformer)] <br>
 ***Xinyao Li***, Jingjing Li, Lin Zuo, Lei Zhu, Heng Tao Shen. <br>
-*IEEE Transactions on Instrumentation and Measurement*, 2022.
+*IEEE Transactions on Instrumentation and Measurement (**TIM**)*, 2022.
 
 
 ## Awards
