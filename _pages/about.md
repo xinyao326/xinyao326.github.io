@@ -37,10 +37,10 @@ I am currently focusing on Transfer Learning, especially Unsupervised Domain Ada
 （***李鑫尧***, 陈洪波, 沈力源, 冯雪松, 李晶晶, "**锂电池状态跨域估计算法综述,**" *电子科技大学学报*, 2024.）
 
 ### Conference Papers
-- **Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation**
+- **Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation** <br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Split_to_Merge_Unifying_Separated_Modalities_for_Unsupervised_Domain_Adaptation_CVPR_2024_paper.pdf)] [[Code](https://github.com/TL-UESTC/UniMoS)] <br>
 ***Xinyao Li***, Zhekai Du, Fengling Li, Ke Lu, Jingjing Li. <br>
-in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)***, 2024. 
+in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)***, 2024. 
 - **Generalizing Vision-Language Models with Dedicated Prompt Guidance**
 [[Paper](https://arxiv.org/abs/2512.02421)] [[Code](https://github.com/TL-UESTC/GuiDG)] <br>
 ***Xinyao Li***, Yinjie Min, Hongbo Chen, Zhekai Du, Fengling Li, Jingjing Li. <br>
@@ -52,15 +52,15 @@ in *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)*, 2
 - **PatAug: Augmentation of Augmentation for Test‑Time Adaptation** [[Paper](https://dl.acm.org/doi/10.1145/3746027.3755740)] [[Code](https://github.com/TL-UESTC/PatAug)] <br>
 ***Xinyao Li***, Dan Zhang, Zhekai Du, Lei Zhu, Zhi Chen, Jingjing Li. <br>
 in *Proceedings of the 33rd ACM International Conference on Multimedia (**ACM MM**)*, 2025.
-- **Source-Free Active Domain Adaptation via Energy-Based Locality Preserving Transfer** [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548152)] [[Code](https://github.com/TL-UESTC/ELPT)] <br>
+- **Source-Free Active Domain Adaptation via Energy-Based Locality Preserving Transfer** <br> [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548152)] [[Code](https://github.com/TL-UESTC/ELPT)] <br>
 ***Xinyao Li***, Zhekei Du, Jingjing Li, Lei Zhu, Ke Lu. <br>
 in *Proceedings of the 30th ACM International Conference on Multimedia (**ACM MM**)*, 2022. 
 - **Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation** [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Du_Domain-Agnostic_Mutual_Prompting_for_Unsupervised_Domain_Adaptation_CVPR_2024_paper.pdf)] [[Code](https://github.com/TL-UESTC/DAMP)] <br>
 Zhekai Du, ***Xinyao Li***, Fengling Li, Ke Lu, Lei Zhu, Jingjing Li. <br>
-in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024.
+in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024.
 
 ### Preprints
-- **Learning ORDER-Aware Multimodal Representations for Composite Materials Design**
+- **Learning ORDER-Aware Multimodal Representations for Composite Materials Design** <br>
 [[Paper](https://arxiv.org/abs/2602.02513)] [[Code](https://github.com/TL-UESTC/ORDER)] <br>
 ***Xinyao Li***, Hangwei Qian, Jingjing Li, Ivor Tsang. <br>
 *Preprint*, 2026.
