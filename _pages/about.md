@@ -62,7 +62,7 @@ in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognitio
 ### Preprints
 - **Learning ORDER-Aware Multimodal Representations for Composite Materials Design** <br>
 [[Paper](https://arxiv.org/abs/2602.02513)] [[Code](https://github.com/TL-UESTC/ORDER)] <br>
-***Xinyao Li***, Hangwei Qian, Jingjing Li, Ivor Tsang. <br>
+***Xinyao Li***, Hangwei Qian, Jingjing Li, Lei Zhu, Ivor Tsang. <br>
 *Preprint*, 2026.
 
 
