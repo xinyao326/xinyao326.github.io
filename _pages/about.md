@@ -25,7 +25,7 @@ I am currently focusing on Transfer Learning, especially Unsupervised Domain Ada
 ***Xinyao Li***, Jingjing Li, Lei Zhu, Heng Tao Shen. <br>
 *Chinese Journal of Computers*，2024. <br>
 （***李鑫尧***, 李晶晶, 朱磊, 申恒涛, "**资源受限的大模型高效迁移学习算法研究综述,**" *计算机学报*, 2024.）
-- **Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey** [[Paper](https://arxiv.org/abs/2506.18504)] <br>
+- **Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey** [[Paper](https://doi.org/10.1145/3816251)] <br>
 ***Xinyao Li***, Jingjing Li, Fengling Li, Lei Zhu, Yang Yang, Heng Tao Shen. <br>
 *ACM Transactions on Multimedia Computing, Communications and Applications (**TOMM**)*, 2026.
 - **Domain Adaptive Remaining Useful Life Prediction with Transformer** [[Paper](https://ieeexplore.ieee.org/abstract/document/9864208/)] [[Code](https://github.com/TL-UESTC/Domain-Adaptive-Remaining-Useful-Life-Prediction-with-Transformer)] <br>
