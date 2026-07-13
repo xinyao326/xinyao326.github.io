@@ -55,7 +55,7 @@ in *Proceedings of the 33rd ACM International Conference on Multimedia (**ACM MM
 - **Source-Free Active Domain Adaptation via Energy-Based Locality Preserving Transfer**  [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548152)] [[Code](https://github.com/TL-UESTC/ELPT)] <br>
 ***Xinyao Li***, Zhekei Du, Jingjing Li, Lei Zhu, Ke Lu. <br>
 in *Proceedings of the 30th ACM International Conference on Multimedia (**ACM MM**)*, 2022.
-- **CONGA: Confidence-and-Gradient-Aware Learning Rate Schedule for Test-Time Adaptation** [[Paper](https://openreview.net/attachment?id=BeOkRax4pN&name=pdf)] <br>
+- **CONGA: Confidence-and-Gradient-Aware Learning Rate Schedule for Test-Time Adaptation** [[Paper](https://openreview.net/pdf?id=BeOkRax4pN)] <br>
 Shaoran Lv\*, ***Xinyao Li\****, Jingjing Li. <br>
 in *Proceedings of the 43rd International Conference on Machine Learning (**ICML**)*, 2026.
 - **Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation** [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Du_Domain-Agnostic_Mutual_Prompting_for_Unsupervised_Domain_Adaptation_CVPR_2024_paper.pdf)] [[Code](https://github.com/TL-UESTC/DAMP)] <br>
