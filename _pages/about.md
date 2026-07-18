@@ -17,6 +17,9 @@ I am currently focusing on Transfer Learning, especially Unsupervised Domain Ada
 
 ## Publications
 ### Journal Papers
+- **Learning Ordinality-Aware Multimodal Representations for Composite Materials Design** [[Paper](https://doi.org/10.1038/s41467-026-75615-3)] [[Code](https://github.com/xinyao326/ORDER)] <br>
+***Xinyao Li***, Hangwei Qian, Jingjing Li, Lei Zhu, Ivor Tsang. <br>
+*Nature Communications*, 2026.
 - **Unified Modality Separation: A Vision‑Language Framework for Unsupervised Domain Adaptation**
 [[Paper](https://ieeexplore.ieee.org/document/11134143)] [[Code](https://github.com/TL-UESTC/unimos_plus)] <br>
 ***Xinyao Li***, Jingjing Li, Zhekai Du, Kei Zhu, Heng Tao Shen. <br>
@@ -62,10 +65,8 @@ in *Proceedings of the 43rd International Conference on Machine Learning (**ICML
 Zhekai Du, ***Xinyao Li***, Fengling Li, Ke Lu, Lei Zhu, Jingjing Li. <br>
 in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024.
 
-### Preprints
-- **Learning ORDER-Aware Multimodal Representations for Composite Materials Design** [[Paper](https://arxiv.org/abs/2602.02513)] [[Code](https://github.com/TL-UESTC/ORDER)] <br>
-***Xinyao Li***, Hangwei Qian, Jingjing Li, Lei Zhu, Ivor Tsang. <br>
-*Preprint*, 2026.
+
+
 
 
 ## Awards
